@@ -20,7 +20,7 @@
       </profile-state>
     </entry>
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.4.0 (C:\SOFTWARES\Python34\python.exe)" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 2.7.10 (D:\Platforms\Anaconda2\python.exe)" project-jdk-type="Python SDK" />
   <component name="masterDetails">
     <states>
       <state key="ScopeChooserConfigurable.UI">
@@ -37,4 +37,3 @@
     </states>
   </component>
 </project>
-
